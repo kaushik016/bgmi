@@ -4,3 +4,10 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
+
+
+
+
+
+output will be:
+hello, world!
